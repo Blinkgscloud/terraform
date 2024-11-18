@@ -136,3 +136,7 @@ If installed via Chocolatey, you can uninstall Terraform with:
 ```powershell
 choco uninstall terraform
 ```
+
+
+
+Happy Terraforming! 🎉 
