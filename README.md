@@ -80,7 +80,7 @@ Click OK to save changes.
 Close and reopen your command prompt to apply the changes.
 
 
-### Verify Installation
+### 6. Verify Installation
 Open a new command prompt and check the Terraform version:
 
 
